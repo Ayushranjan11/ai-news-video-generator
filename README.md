@@ -2,7 +2,6 @@
 
 A Python tool that automatically fetches trending news articles, generates a summary script using the Google Gemini API, and creates a short video with a voiceover and text overlays using MoviePy.
 
-*(This repository uses Git LFS to store example video outputs.)*
 
 ---
 
