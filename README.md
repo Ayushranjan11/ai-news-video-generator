@@ -2,9 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.12-blue.svg" alt="Python version">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
-</p>
 
 A command-line tool that automatically fetches trending news articles, generates a summary script using the Google Gemini API, and creates a short, shareable video with a voiceover and text overlays using MoviePy.
 
