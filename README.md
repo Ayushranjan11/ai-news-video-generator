@@ -20,14 +20,6 @@ A command-line tool that automatically fetches trending news articles, generates
 
 ---
 
-### DEMO
-
-*(Suggestion: Record a short GIF of your tool running and the final video, upload it to a site like [Ezgif](https://ezgif.com/), and replace the image link below with your GIF link.)*
-
-![Demo Video GIF](https://i.imgur.com/your-demo-image-or-gif.gif)
-
----
-
 ### 🛠️ Tech Stack & Dependencies
 
 -   **Language:** Python 3
